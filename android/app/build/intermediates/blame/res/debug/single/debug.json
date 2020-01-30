@@ -812,6 +812,10 @@
         "source": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.jpg.flat",
+        "source": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
         "merged": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
         "source": "C:\\Users\\luiiz\\.gradle\\caches\\transforms-2\\files-2.1\\98623f21376492342eff3011c59fa89c\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
     },
@@ -1778,10 +1782,6 @@
     {
         "merged": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\luiiz\\.gradle\\caches\\transforms-2\\files-2.1\\5983221980d888e5695c469b953b70df\\play-services-base-17.1.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.png.flat",
-        "source": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\src\\main\\res\\drawable\\splashscreen.png"
     },
     {
         "merged": "D:\\Archivos de Marin\\Chamba\\oreo\\app\\rn_oreo\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_background.xml.flat",
