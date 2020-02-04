@@ -68,12 +68,21 @@ class SocialMethods extends React.Component {
   };
 
   onAppleButtonPress = async () => {
+    console.log('Pressed');
     try {
       const appleAuthRequestResponse = await appleAuth.performRequest({
         requestedOperation: AppleAuthRequestOperation.LOGIN,
         requestedScopes: [AppleAuthRequestScope.EMAIL, AppleAuthRequestScope.FULL_NAME],
       });
-      this.props.dispatch(signInWithApple(appleAuthRequestResponse.identityToken, appleAuthRequestResponse.user));
+      const fullName = `${appleAuthRequestResponse.fullName.givenName} ${appleAuthRequestResponse.fullName.familyName}`;
+      console.log(`Fullname: ${fullName}`);
+      this.props.dispatch(
+        signInWithApple(
+          appleAuthRequestResponse.identityToken,
+          appleAuthRequestResponse.user,
+          fullName,
+        ),
+      );
     } catch (e) {
       console.log(e);
     }
