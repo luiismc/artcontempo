@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>297766130098-hjpcl4oa4njgv28a96hk130aqghlocr8.apps.googleusercontent.com</string>
+	<string>528244548405-8upt8lv9sbv12m2ledkjlap432ngotga.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.297766130098-hjpcl4oa4njgv28a96hk130aqghlocr8</string>
+	<string>com.googleusercontent.apps.528244548405-8upt8lv9sbv12m2ledkjlap432ngotga</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>297766130098-uqasumdncq794jgf2lt6u22067sgvih0.apps.googleusercontent.com</string>
+	<string>528244548405-l9d333ner07rk65c9f4jgjd7o29sq0bm.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDXSquhnClOj1ou-G0phsZ-rr3AzvdhX3Q</string>
+	<string>AIzaSyAjg8iOs8pamHCM_iucAJRZUVDulL4XxIs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>297766130098</string>
+	<string>528244548405</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>oreo.rnlab.io</string>
+	<string>com.artcontemporaneo.app</string>
 	<key>PROJECT_ID</key>
-	<string>oreo-240808</string>
+	<string>art-contemporaneo-265423</string>
 	<key>STORAGE_BUCKET</key>
-	<string>oreo-240808.appspot.com</string>
+	<string>art-contemporaneo-265423.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:297766130098:ios:93d5d026707117c73fd4ab</string>
+	<string>1:528244548405:ios:86018ec8eba0451b86a27c</string>
 	<key>DATABASE_URL</key>
-	<string>https://oreo-240808.firebaseio.com</string>
+	<string>https://art-contemporaneo-265423.firebaseio.com</string>
 </dict>
 </plist>
