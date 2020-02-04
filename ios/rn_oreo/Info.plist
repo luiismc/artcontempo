@@ -23,9 +23,11 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb485229305653752</string>
+				<string>fb480585495915123</string>
 			</array>
 		</dict>
 		<dict>
@@ -33,14 +35,14 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.297766130098-hjpcl4oa4njgv28a96hk130aqghlocr8</string>
+				<string>com.googleusercontent.apps.528244548405-8upt8lv9sbv12m2ledkjlap432ngotga</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
-	<string>485229305653752</string>
+	<string>480585495915123</string>
 	<key>FacebookDisplayName</key>
 	<string>Oreo Fashion</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
