@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/lang/ColdClass.cpp \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/lang/ColdClass.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/CppAttributes.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/lang/ColdClass.cpp \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CppAttributes.h

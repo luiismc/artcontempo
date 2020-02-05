@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rn_oreo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rn_oreo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>602615734.39401996</real>
+			<key>timeStoppedRecording</key>
+			<real>602615741.49587405</real>
+			<key>title</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5</string>
+		</dict>
+		<key>72AAFAF6-E068-4910-AED5-A24337EB56BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72AAFAF6-E068-4910-AED5-A24337EB56BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rn_oreo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rn_oreo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>602615041.91927004</real>
+			<key>timeStoppedRecording</key>
+			<real>602615047.46152306</real>
+			<key>title</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>72AAFAF6-E068-4910-AED5-A24337EB56BF</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -1,33 +1,32 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/AppAuthCore.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthState.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthStateChangeDelegate.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthStateErrorDelegate.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationRequest.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentRequest.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDResponseTypes.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDScopes.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationResponse.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationService.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDError.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDErrorUtilities.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgent.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentSession.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDGrantTypes.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDIDToken.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDRegistrationRequest.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDRegistrationResponse.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDScopeUtilities.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDServiceConfiguration.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDServiceDiscovery.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenRequest.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenResponse.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenUtilities.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDURLSessionProvider.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDEndSessionRequest.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDEndSessionResponse.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/AppAuthCore.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthState.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthStateChangeDelegate.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthStateErrorDelegate.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationRequest.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentRequest.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDResponseTypes.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDScopes.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationResponse.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationService.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDError.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDErrorUtilities.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgent.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentSession.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDGrantTypes.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDIDToken.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDRegistrationRequest.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDRegistrationResponse.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDScopeUtilities.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDServiceConfiguration.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDServiceDiscovery.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenRequest.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenResponse.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDTokenUtilities.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDURLSessionProvider.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDEndSessionRequest.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/AppAuth/OIDEndSessionResponse.h

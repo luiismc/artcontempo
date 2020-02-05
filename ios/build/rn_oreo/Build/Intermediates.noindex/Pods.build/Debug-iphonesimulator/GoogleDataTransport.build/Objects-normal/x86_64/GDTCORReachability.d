@@ -1,6 +1,5 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORReachability.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability_Private.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORConsoleLogger.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORReachability.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability_Private.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORConsoleLogger.h

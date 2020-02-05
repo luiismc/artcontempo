@@ -1,33 +1,32 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControlManager.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControlManager.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTViewManager.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTConvert.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTEventDispatcher.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/UIView+React.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControl.h
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControlManager.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControlManager.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTViewManager.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTConvert.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTEventDispatcher.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/UIView+React.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Views/RCTSegmentedControl.h

@@ -1,23 +1,22 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/RNCAsyncStorage/RNCAsyncStorage-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorageDelegate.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/RNCAsyncStorage/RNCAsyncStorage-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorage.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/@react-native-community/async-storage/ios/RNCAsyncStorageDelegate.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m

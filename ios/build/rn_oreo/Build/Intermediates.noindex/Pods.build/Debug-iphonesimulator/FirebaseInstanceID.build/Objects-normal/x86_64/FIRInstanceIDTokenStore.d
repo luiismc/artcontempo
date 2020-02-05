@@ -1,11 +1,10 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h

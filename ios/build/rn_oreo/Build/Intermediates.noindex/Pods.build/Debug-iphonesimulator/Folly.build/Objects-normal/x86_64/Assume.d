@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/lang/Assume.cpp \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/lang/Assume.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/Portability.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Folly/folly/CPortability.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/glog/glog/logging.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/glog/glog/log_severity.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/lang/Assume.cpp \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Portability.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h

@@ -1,7 +1,6 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h
+  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h

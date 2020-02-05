@@ -1,21 +1,20 @@
 dependencies: \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/Headers/Public/FBSDKCoreKit/FBSDKCoreKit.modulemap \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLibrary.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRConfigurationInternal.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreDiagnosticsConnector.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
-  /Users/luis/Desktop/yoc/zzz/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLibrary.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRConfigurationInternal.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreDiagnosticsConnector.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
+  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h
