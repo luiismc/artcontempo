@@ -12,12 +12,12 @@
 		<key>rn_oreo-tvOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>59</integer>
+			<integer>1</integer>
 		</dict>
 		<key>rn_oreo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>58</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 </dict>
