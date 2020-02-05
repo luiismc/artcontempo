@@ -15,6 +15,7 @@ export const homeDrawer = {
 export const homeTabs = {
   home: 'HomeScreen',
   shop: 'ShopStack',
+  blogs: 'BlogsScreen',
   wish_list: 'WishListStack',
   cart: 'CartStack',
   me: 'ProfileStack',
