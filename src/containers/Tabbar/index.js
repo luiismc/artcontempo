@@ -33,6 +33,12 @@ const Tabbar = (props) => {
       isShow: true,
     },
     {
+      iconName: 'book',
+      name: t('common:text_blogs'),
+      router: homeTabs.blogs,
+      isShow: true,
+    },
+    {
       iconName: 'heart',
       name: t('common:text_wishList'),
       nameData: 'wishList',

@@ -4,6 +4,7 @@ import { createBottomTabNavigator } from 'react-navigation-tabs';
 
 import Home from 'src/screens/home';
 import Category from 'src/screens/shop/category';
+import Blogs from '../screens/blog/blogs'
 import WishList from 'src/screens/wishlist';
 
 import ProfileStack from './profile-stack';
@@ -20,6 +21,9 @@ const Tabs = createBottomTabNavigator(
     },
     [homeTabs.shop]: {
       screen: Category,
+    },
+    [homeTabs.blogs]: {
+      screen: Blogs,
     },
     [homeTabs.wish_list]: {
       screen: WishList,
