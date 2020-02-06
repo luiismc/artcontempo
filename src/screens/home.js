@@ -10,8 +10,8 @@ import {IconHeader, Logo, CartIcon} from 'src/containers/HeaderComponent';
 import ModalHomePopup from 'src/containers/ModalHomePopup';
 
 import {
-    dataConfigSelector,
-    toggleSidebarSelector,
+  dataConfigSelector,
+  toggleSidebarSelector,
 } from 'src/modules/common/selectors';
 
 // Containers
@@ -27,82 +27,96 @@ import Testimonials from './home/containers/Testimonials';
 import Button from './home/containers/Button';
 import Vendors from './home/containers/Vendors';
 
-const {width}= Dimensions.get('window');
+const {width} = Dimensions.get('window');
 
 const containers = {
-    slideshow: Slideshow,
-    categories: CategoryList,
-    products: ProductList,
-    productcategory: ProductCategory,
-    banners: Banners,
-    text: TextInfo,
-    countdown: CountDown,
-    blogs: BlogList,
-    testimonials: Testimonials,
-    button: Button,
-    vendors: Vendors,
+  slideshow: Slideshow,
+  categories: CategoryList,
+  products: ProductList,
+  productcategory: ProductCategory,
+  banners: Banners,
+  text: TextInfo,
+  countdown: CountDown,
+  blogs: BlogList,
+  testimonials: Testimonials,
+  button: Button,
+  vendors: Vendors,
 };
 
-const widthComponent = (spacing) => {
-    if (!spacing) {return width;}
-    const marginLeft = spacing.marginLeft && parseInt(spacing.marginLeft) ? parseInt(spacing.marginLeft) : 0;
-    const marginRight = spacing.marginRight && parseInt(spacing.marginRight) ? parseInt(spacing.marginRight) : 0;
-    const paddingLeft = spacing.paddingLeft && parseInt(spacing.paddingLeft) ? parseInt(spacing.paddingLeft) : 0;
-    const paddingRight = spacing.paddingRight && parseInt(spacing.paddingRight) ? parseInt(spacing.paddingRight) : 0;
-    return width - marginLeft - marginRight - paddingLeft - paddingRight;
+const widthComponent = spacing => {
+  if (!spacing) {
+    return width;
+  }
+  const marginLeft =
+    spacing.marginLeft && parseInt(spacing.marginLeft)
+      ? parseInt(spacing.marginLeft)
+      : 0;
+  const marginRight =
+    spacing.marginRight && parseInt(spacing.marginRight)
+      ? parseInt(spacing.marginRight)
+      : 0;
+  const paddingLeft =
+    spacing.paddingLeft && parseInt(spacing.paddingLeft)
+      ? parseInt(spacing.paddingLeft)
+      : 0;
+  const paddingRight =
+    spacing.paddingRight && parseInt(spacing.paddingRight)
+      ? parseInt(spacing.paddingRight)
+      : 0;
+  return width - marginLeft - marginRight - paddingLeft - paddingRight;
 };
 
 class HomeScreen extends React.Component {
-    renderContainer(config) {
-        const Container = containers[config.type];
-        if (!Container) {
-            return null;
-        }
-        return (
-            <View key={config.id} style={config.spacing && config.spacing}>
-                <Container
-                  {...config}
-                  widthComponent={widthComponent(config.spacing)}
-                />
-            </View>
-        );
+  renderContainer(config) {
+    const Container = containers[config.type];
+    if (!Container) {
+      return null;
     }
+    return (
+      <View key={config.id} style={config.spacing && config.spacing}>
+        <Container
+          {...config}
+          widthComponent={widthComponent(config.spacing)}
+        />
+      </View>
+    );
+  }
 
-    render() {
-        // const { category, product } = this.props;
-        const {config, toggleSidebar, navigation} = this.props;
+  render() {
+    // const { category, product } = this.props;
+    const {config, toggleSidebar, navigation} = this.props;
 
-        return (
-            <ThemedView isFullView>
-                <Header
-                    leftComponent={
-                        toggleSidebar ? (
-                            <IconHeader
-                                name="align-left"
-                                size={22}
-                                onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
-                            />
-                        ) : null
-                    }
-                    centerComponent={<Logo />}
-                    rightComponent={<CartIcon />}
-                />
-                <ScrollView
-                    showsHorizontalScrollIndicator={false}
-                    showsVerticalScrollIndicator={false}>
-                    {config.map(config => this.renderContainer(config))}
-                </ScrollView>
-              <ModalHomePopup />
-            </ThemedView>
-        );
-    }
+    return (
+      <ThemedView isFullView>
+        <Header
+          leftComponent={
+            toggleSidebar ? (
+              <IconHeader
+                name="align-left"
+                size={22}
+                onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
+              />
+            ) : null
+          }
+          centerComponent={<Logo />}
+          rightComponent={<CartIcon />}
+        />
+        <ScrollView
+          showsHorizontalScrollIndicator={false}
+          showsVerticalScrollIndicator={false}>
+          {config.map(config => this.renderContainer(config))}
+        </ScrollView>
+        {/* <ModalHomePopup /> */}
+      </ThemedView>
+    );
+  }
 }
 
 const mapStateToProps = state => {
-    return {
-        config: dataConfigSelector(state),
-        toggleSidebar: toggleSidebarSelector(state),
-    };
+  return {
+    config: dataConfigSelector(state),
+    toggleSidebar: toggleSidebarSelector(state),
+  };
 };
 
 export default connect(mapStateToProps)(HomeScreen);
