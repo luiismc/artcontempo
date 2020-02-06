@@ -1,7 +1,8 @@
 import React from 'react';
 import {connect} from 'react-redux';
 import {View} from 'react-native';
-import {Icon} from 'src/components';
+import Icon from 'react-native-ionicons';
+//react-native-vector-icons
 import {Dot} from '../Pagination';
 import {red} from 'src/components/config/colors';
 

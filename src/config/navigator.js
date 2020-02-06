@@ -9,14 +9,15 @@ export const homeDrawer = {
   home_tab: 'HomeTab',
   screen2: 'Screen2Stack',
   screen3: 'Screen3Stack',
-  blog: 'BlogStack',
+  blog: 'BlogStack'
 };
 
 export const homeTabs = {
   home: 'HomeScreen',
   shop: 'ShopStack',
   blogs: 'BlogsScreen',
-  wish_list: 'WishListStack',
+  artists: 'ArtistsScreen',
+  //wish_list: 'WishListStack',
   cart: 'CartStack',
   me: 'ProfileStack',
 };

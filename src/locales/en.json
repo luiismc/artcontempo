@@ -65,7 +65,9 @@
     "text_help" : "Help & Info",
     "text_search_country_mobile" : "Type Here...",
     "text_add" : "Add",
-    "text_save" : "Save"
+    "text_save" : "Save",
+    "text_artists": "Artistas"
+    
   },
   "auth": {
     "text_input_email_address": "Email Address or Username *",
@@ -199,6 +201,7 @@
     "text_title_logout": "Sign in to receive exclusive offers and\nPromotions",
     "text_account": "My Account",
     "text_wishlist": "WishList",
+    "text_artistas": "Artistas",
     "text_title_information": "Information",
     "text_title_setting": "Settings",
     "text_setting": "App Settings",
@@ -267,6 +270,7 @@
     "text_by": "by",
     "text_share": "Share post"
   },
+   
   "inputs": {
     "text_first_name": "First Name",
     "text_last_name": "Last Name",

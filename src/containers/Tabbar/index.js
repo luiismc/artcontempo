@@ -21,13 +21,19 @@ const Tabbar = (props) => {
   } = props;
   const data = [
     {
-      iconName: 'home',
+      iconName: 'book',
       name: t('common:text_home'),
       router: homeTabs.home,
       isShow: true,
     },
     {
-      iconName: 'search',
+      iconName: 'color-palette',
+      name: t('common:text_artists'),
+      router: homeTabs.artists,
+      isShow: true,
+    },
+    {
+      iconName: 'basket',
       name: t('common:text_shop'),
       router: homeTabs.shop,
       isShow: true,
@@ -38,22 +44,23 @@ const Tabbar = (props) => {
       router: homeTabs.blogs,
       isShow: true,
     },
+    // {
+    //   iconName: 'heart',
+    //   name: t('common:text_wishList'),
+    //   nameData: 'wishList',
+    //   router: homeTabs.wish_list,
+    //   isShow: configs.get('toggleWishlist'),
+    // },
+    
+    // {
+    //   iconName: 'shopping-bag',
+    //   name: t('common:text_cart'),
+    //   nameData: 'cart',
+    //   router: homeTabs.cart,
+    //   isShow: configs.get('toggleCheckout'),
+    // },
     {
-      iconName: 'heart',
-      name: t('common:text_wishList'),
-      nameData: 'wishList',
-      router: homeTabs.wish_list,
-      isShow: configs.get('toggleWishlist'),
-    },
-    {
-      iconName: 'shopping-bag',
-      name: t('common:text_cart'),
-      nameData: 'cart',
-      router: homeTabs.cart,
-      isShow: configs.get('toggleCheckout'),
-    },
-    {
-      iconName: 'user',
+      iconName: 'person',
       name: t('common:text_me'),
       router: homeTabs.me,
       iconProps: {
@@ -113,3 +120,4 @@ const mapStateToProps = state => {
 };
 
 export default connect(mapStateToProps)(Tabbar);
+
