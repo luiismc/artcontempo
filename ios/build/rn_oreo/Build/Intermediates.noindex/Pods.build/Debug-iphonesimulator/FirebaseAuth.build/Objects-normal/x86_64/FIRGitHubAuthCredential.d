@@ -1,11 +1,11 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/GitHub/FIRGitHubAuthCredential.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/GitHub/FIRGitHubAuthCredential.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/FIRAuthCredential_Internal.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyAssertionRequest.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCRequest.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRIdentityToolkitRequest.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRequestConfiguration.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/GitHub/FIRGitHubAuthCredential.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/GitHub/FIRGitHubAuthCredential.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/FIRAuthCredential_Internal.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyAssertionRequest.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCRequest.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRIdentityToolkitRequest.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRequestConfiguration.h

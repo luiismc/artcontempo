@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/NSData+FIRBase64.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/NSData+FIRBase64.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/NSData+FIRBase64.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/NSData+FIRBase64.h

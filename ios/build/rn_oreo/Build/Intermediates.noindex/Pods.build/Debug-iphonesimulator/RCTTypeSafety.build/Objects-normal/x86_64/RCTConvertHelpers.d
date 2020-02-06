@@ -1,29 +1,29 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Optional.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Portability.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CPortability.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Traits.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Utility.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/lang/Exception.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CppAttributes.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/Optional.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/Portability.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/Traits.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/Utility.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
