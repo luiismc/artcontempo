@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORDataFuture.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORDataFuture.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORDataFuture.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORDataFuture.h

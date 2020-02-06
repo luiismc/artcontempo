@@ -1,2 +1,5 @@
 node_modules/
 ios/Pods/
+ios/build/
+.pnp.js
+yarn.lock

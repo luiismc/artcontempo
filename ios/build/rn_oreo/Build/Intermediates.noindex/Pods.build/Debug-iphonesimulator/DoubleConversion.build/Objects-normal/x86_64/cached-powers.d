@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/DoubleConversion/double-conversion/cached-powers.cc \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/DoubleConversion/double-conversion/utils.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/DoubleConversion/double-conversion/cached-powers.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/DoubleConversion/double-conversion/diy-fp.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/DoubleConversion/double-conversion/cached-powers.cc \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/DoubleConversion/double-conversion/utils.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/DoubleConversion/double-conversion/cached-powers.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/DoubleConversion/double-conversion/diy-fp.h

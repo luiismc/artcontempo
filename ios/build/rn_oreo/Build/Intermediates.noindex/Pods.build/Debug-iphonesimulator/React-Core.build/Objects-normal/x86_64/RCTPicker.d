@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Views/RCTPicker.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Views/RCTPicker.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/UIView+React.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/React/Views/RCTPicker.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/React/Views/RCTPicker.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/UIView+React.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/hugo/Downloads/GIT/artcontempo/node_modules/react-native/React/Base/RCTUtils.h

@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMAppAuth/Source/GTMKeychain.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMAppAuth/Source/GTMKeychain.h
