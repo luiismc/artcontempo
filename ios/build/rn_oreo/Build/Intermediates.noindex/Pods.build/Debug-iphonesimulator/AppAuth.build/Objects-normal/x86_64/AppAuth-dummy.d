@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-dummy.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-prefix.pch
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-dummy.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-prefix.pch

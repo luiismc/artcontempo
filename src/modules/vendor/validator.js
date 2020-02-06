@@ -4,16 +4,18 @@ import isAlphanumeric from 'validator/lib/isAlphanumeric';
 import isMobilePhone from 'validator/lib/isMobilePhone';
 import isEmail from 'validator/lib/isEmail';
 
+import es from 'src/locales/es.json';
 import en from 'src/locales/en.json';
 import ar from 'src/locales/ar.json';
 
 const languages = {
+  es,
   en,
   ar,
 };
 
 export function validatorContact(data, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();
@@ -38,7 +40,7 @@ export function validatorContact(data, language) {
 }
 
 export function validatorReview(data, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();

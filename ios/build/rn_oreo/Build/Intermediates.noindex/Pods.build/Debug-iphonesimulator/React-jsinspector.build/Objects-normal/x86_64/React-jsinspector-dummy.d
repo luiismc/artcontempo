@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-dummy.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-prefix.pch
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-dummy.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/React-jsinspector/React-jsinspector-prefix.pch

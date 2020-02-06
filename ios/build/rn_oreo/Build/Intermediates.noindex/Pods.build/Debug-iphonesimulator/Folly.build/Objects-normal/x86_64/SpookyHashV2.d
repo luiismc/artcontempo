@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/hash/SpookyHashV2.cpp \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CppAttributes.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/Portability.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Folly/folly/CPortability.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/hash/SpookyHashV2.cpp \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/Portability.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Folly/folly/CPortability.h

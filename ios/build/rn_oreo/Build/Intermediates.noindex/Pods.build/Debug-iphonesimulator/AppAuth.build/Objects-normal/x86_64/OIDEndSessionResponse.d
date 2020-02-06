@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionResponse.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionResponse.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDDefines.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionRequest.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDExternalUserAgentRequest.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/AppAuth/Source/OIDFieldMapping.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionResponse.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/AppAuth/AppAuth-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionResponse.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDDefines.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDEndSessionRequest.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDExternalUserAgentRequest.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/AppAuth/Source/OIDFieldMapping.h

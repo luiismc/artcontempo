@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRBundleUtil.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/FIRBundleUtil.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h

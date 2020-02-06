@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/FirebaseInstanceID/FirebaseInstanceID-dummy.m
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/FirebaseInstanceID/FirebaseInstanceID-dummy.m

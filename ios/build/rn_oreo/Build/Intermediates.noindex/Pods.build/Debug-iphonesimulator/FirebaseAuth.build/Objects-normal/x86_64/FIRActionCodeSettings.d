@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRActionCodeSettings.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRActionCodeSettings.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRActionCodeSettings.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRActionCodeSettings.h

@@ -5,6 +5,7 @@ import isMobilePhone from 'validator/lib/isMobilePhone';
 import isAlphanumeric from 'validator/lib/isAlphanumeric';
 import passwordValidator from 'password-validator';
 
+import es from 'src/locales/es.json';
 import en from 'src/locales/en.json';
 import ar from 'src/locales/ar.json';
 
@@ -22,13 +23,14 @@ schema
   .spaces(); // Should not have spaces
 
 const languages = {
+  es,
   en,
   ar,
 };
 
 export function validatorSignIn(data, language) {
   let errors = Map();
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   if (
@@ -50,7 +52,7 @@ export function validatorSignIn(data, language) {
 }
 
 export function validatorRegister(register, isPhone = true, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();
@@ -101,7 +103,7 @@ export function validatorRegister(register, isPhone = true, language) {
 }
 
 export function validatorLoginMobile(phone, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();
@@ -114,7 +116,7 @@ export function validatorLoginMobile(phone, language) {
 }
 
 export function validatorForgotPassword(email, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();
@@ -127,7 +129,7 @@ export function validatorForgotPassword(email, language) {
 }
 
 export function validatorChangePassword(data, language) {
-  const t = languages[language] ? languages[language] : languages.en;
+  const t = languages[language] ? languages[language] : languages.es;
   const validators = t.validators || {};
 
   let errors = Map();

@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthUserDefaults.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthUserDefaults.h \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthKeychainServices.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthUserDefaults.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthUserDefaults.h \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthKeychainServices.h

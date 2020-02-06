@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/glog/glog-dummy.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/glog/glog-prefix.pch
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/glog/glog-dummy.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/glog/glog-prefix.pch
