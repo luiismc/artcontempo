@@ -38,6 +38,7 @@ const dataHelpInfo = [
     name: 'common:text_privacy_full',
     router: profileStack.privacy,
   },
+  
 ];
 
 class Sidebar extends React.Component {

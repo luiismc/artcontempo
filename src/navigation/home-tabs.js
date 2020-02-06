@@ -6,6 +6,7 @@ import Home from 'src/screens/home';
 import Category from 'src/screens/shop/category';
 import Blogs from '../screens/blog/blogs'
 import WishList from 'src/screens/wishlist';
+import Artists from '../screens/artists/artists';
 
 import ProfileStack from './profile-stack';
 import CartStack from './cart-stack';
@@ -19,15 +20,19 @@ const Tabs = createBottomTabNavigator(
     [homeTabs.home]: {
       screen: Home,
     },
+    [homeTabs.artists]: {
+      screen: Artists,
+    },
     [homeTabs.shop]: {
       screen: Category,
     },
     [homeTabs.blogs]: {
       screen: Blogs,
     },
-    [homeTabs.wish_list]: {
-      screen: WishList,
-    },
+    // [homeTabs.wish_list]: {
+    //   screen: WishList,
+    // },
+   
     [homeTabs.cart]: {
       screen: CartStack,
       navigationOptions: ({ navigation }) => {
