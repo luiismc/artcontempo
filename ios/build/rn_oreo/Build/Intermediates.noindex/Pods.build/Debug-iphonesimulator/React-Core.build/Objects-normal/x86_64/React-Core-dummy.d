@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-dummy.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-dummy.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch

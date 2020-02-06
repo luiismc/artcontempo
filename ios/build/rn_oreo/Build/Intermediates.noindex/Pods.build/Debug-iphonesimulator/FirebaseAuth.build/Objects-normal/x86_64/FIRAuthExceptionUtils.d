@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthExceptionUtils.h

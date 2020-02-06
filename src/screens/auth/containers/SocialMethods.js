@@ -143,7 +143,7 @@ class SocialMethods extends React.Component {
             iconSize={16}
             button
             raised={false}
-            style={styles.socialIconStyle}
+            style={styles.socialIconStyle2}
             onPress={this.onAppleButtonPress}
             fontStyle={styles.textButtonSocial}
           />
@@ -165,6 +165,15 @@ const styles = StyleSheet.create({
     borderWidth: 0,
     marginHorizontal: margin.large / 2,
     marginVertical: 0,
+  },
+  socialIconStyle2: {
+    width: 46,
+    height: 46,
+    borderRadius: 23,
+    borderWidth: 0,
+    marginHorizontal: margin.large / 2,
+    marginVertical: 0,
+    backgroundColor: "#000000",
   },
   textButtonSocial: {
     marginLeft: 0,

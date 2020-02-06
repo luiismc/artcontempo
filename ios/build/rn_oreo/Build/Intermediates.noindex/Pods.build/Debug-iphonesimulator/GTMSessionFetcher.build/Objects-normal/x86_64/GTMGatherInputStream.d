@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.m \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch \
-  /Users/luiismc/Documents/GitHub/artcontempo/ios/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.m \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch \
+  /Users/hugo/Downloads/GIT/artcontempo/ios/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h
