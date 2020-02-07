@@ -21,19 +21,19 @@ const Tabbar = (props) => {
   } = props;
   const data = [
     {
-      iconName: 'book',
+      iconName: 'home',
       name: t('common:text_home'),
       router: homeTabs.home,
       isShow: true,
     },
     {
-      iconName: 'color-palette',
+      iconName: 'image',
       name: t('common:text_artists'),
       router: homeTabs.artists,
       isShow: true,
     },
     {
-      iconName: 'basket',
+      iconName: 'shopping-cart',
       name: t('common:text_shop'),
       router: homeTabs.shop,
       isShow: true,
@@ -60,7 +60,7 @@ const Tabbar = (props) => {
     //   isShow: configs.get('toggleCheckout'),
     // },
     {
-      iconName: 'person',
+      iconName: 'smile',
       name: t('common:text_me'),
       router: homeTabs.me,
       iconProps: {

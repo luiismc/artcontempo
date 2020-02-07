@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5</key>
+		<key>8824C929-6A76-43B2-93F8-AEF52257B0CF</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5.xcactivitylog</string>
+			<string>8824C929-6A76-43B2-93F8-AEF52257B0CF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>602615734.39401996</real>
+			<real>602783681.56244302</real>
 			<key>timeStoppedRecording</key>
-			<real>602615741.49587405</real>
+			<real>602783710.10357106</real>
 			<key>title</key>
 			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>63BEAE7C-7D2B-45F0-AC48-D0ECC4F2A0A5</string>
+			<string>8824C929-6A76-43B2-93F8-AEF52257B0CF</string>
+		</dict>
+		<key>ACC0ECA2-32C9-4B67-822F-34ECA2D4CD9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACC0ECA2-32C9-4B67-822F-34ECA2D4CD9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rn_oreo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rn_oreo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>602787126.42699397</real>
+			<key>timeStoppedRecording</key>
+			<real>602787158.202227</real>
+			<key>title</key>
+			<string>Building workspace rn_oreo with scheme rn_oreo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ACC0ECA2-32C9-4B67-822F-34ECA2D4CD9A</string>
 		</dict>
 	</dict>
 </dict>

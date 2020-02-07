@@ -104,7 +104,7 @@ Icon.defaultProps = {
   color: 'black',
   reverseColor: 'white',
   disabled: false,
-  type: 'feather',
+  type: 'feather', 
   isRotateRTL: false,
 };
 

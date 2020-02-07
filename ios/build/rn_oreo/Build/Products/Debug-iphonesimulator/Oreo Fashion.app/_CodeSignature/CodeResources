@@ -42,15 +42,15 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		OEU1Bik3z32hDrcbkdgJ9TCsgTE=
+		k4O8yQQLqu82LyyGhHsHfwXEcjo=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		Q2PmRYazd+rJNeaKFCE+fCYHVgA=
+		1/tuDmjTQbzKPRcNx3WRLkS3UHo=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		kWZm5BPBaiw+s6Fl5URIoyU6G8I=
+		Ts8otX5BeG/aJm+LkWMVqO2Bfww=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -880,7 +880,7 @@
 		</data>
 		<key>PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension</key>
 		<data>
-		xR2R43gc7TpQ2N9lP7Z68rHKLig=
+		KphCKwsqPLQP7+nQhMdA9iGvbCs=
 		</data>
 		<key>PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources</key>
 		<data>
@@ -1020,33 +1020,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OEU1Bik3z32hDrcbkdgJ9TCsgTE=
+			k4O8yQQLqu82LyyGhHsHfwXEcjo=
 			</data>
 			<key>hash2</key>
 			<data>
-			K5mqCn+HLBOrFZ7UX4WKNWwPWkoo3NiZ2douhlUGyGg=
+			xwuSGJO5UZwXLpL7Ts/4Y9J8YNDlAqfqLzoSMDMJdlY=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q2PmRYazd+rJNeaKFCE+fCYHVgA=
+			1/tuDmjTQbzKPRcNx3WRLkS3UHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4NJlKRaEqt4k5KujbJMPs+aLF77tWaAjfpvp+VffFM8=
+			uovey9yQeXuvwV35f6dlJz7pEjOw3bWCYY5V7sZcr1k=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kWZm5BPBaiw+s6Fl5URIoyU6G8I=
+			Ts8otX5BeG/aJm+LkWMVqO2Bfww=
 			</data>
 			<key>hash2</key>
 			<data>
-			rn8VN/pWHJoloFMDNe9P3RM3T3ug59i3C2SEad4FbiE=
+			gSeDjDVhW6il+vtSSSj9mjpyORrysXMTq9OEsuO8DIE=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -2339,11 +2339,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xR2R43gc7TpQ2N9lP7Z68rHKLig=
+			KphCKwsqPLQP7+nQhMdA9iGvbCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			GuDX3weodiTmzhMA/KQv9PKH4JecXvO0stb6kczw0Ic=
+			QgfZ2EYZSDAa1K4NC+FzkI8/7SLr0k9rYCnaip2bSZ8=
 			</data>
 		</dict>
 		<key>PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources</key>

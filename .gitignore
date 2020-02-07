@@ -50,6 +50,9 @@ local.properties
 *.iml
 /android/
 
+# Ios
+ios/build/
+
 # Node
 node_modules
 *.log
