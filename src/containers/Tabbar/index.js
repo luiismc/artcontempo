@@ -26,12 +26,12 @@ const Tabbar = (props) => {
       router: homeTabs.home,
       isShow: true,
     },
-    {
-      iconName: 'image',
-      name: t('common:text_artists'),
-      router: homeTabs.artists,
-      isShow: true,
-    },
+    // {
+    //   iconName: 'image',
+    //   name: t('common:text_artists'),
+    //   router: homeTabs.artists,
+    //   isShow: true,
+    // },
     {
       iconName: 'shopping-cart',
       name: t('common:text_shop'),

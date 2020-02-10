@@ -16,7 +16,7 @@ export const homeTabs = {
   home: 'HomeScreen',
   shop: 'ShopStack',
   blogs: 'BlogsScreen',
-  artists: 'ArtistsScreen',
+ // artists: 'ArtistsScreen',
   //wish_list: 'WishListStack',
   cart: 'CartStack',
   me: 'ProfileStack',
